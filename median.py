@@ -1,3 +1,5 @@
+# median of an array on numbers
+
 arr=[5,3,1,2,4]
 
 arr.sort()
