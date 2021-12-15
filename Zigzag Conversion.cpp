@@ -1,4 +1,8 @@
+The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)
 
+P   A   H   N
+A P L S I I G
+Y   I   R
 
 #include <iostream>
 #include <cstring>
@@ -47,14 +51,6 @@ main ()
 
 
     }
-//   for (int j = 0; j < 3; j++)
-//     {
-//       for (int i = 0; i < 6; i++)
-// 	{
-// 	  cout << b[j][i];
-
-// 	} cout << "\n";
-//     }
     
     for (int i = 0; i < 3; i++)
     {
